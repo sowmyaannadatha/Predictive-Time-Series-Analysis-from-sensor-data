@@ -1,6 +1,6 @@
 # Predictive-Time-Series-Analysis-from-sensor-data
 
-Horsens Vand dataset (Publicly available dataset)
+Time series - centrifuges dataset (Publicly available dataset)
 
 Introduction:
 Proof of Concept study during my internship with Innovation lab.
