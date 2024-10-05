@@ -4,7 +4,7 @@ Time series - centrifuges dataset (Publicly available dataset)
 
 Introduction:
 Proof of Concept study.
-Client has a sewage water recycling unit.
+This public dataset is from a sewage water recycling unit.
 The recyling plant has 4 centrifuges to seperate fluids of different densities . (liquids from solids)
 The liquid is processed in such a way that the water is safe to return to environment.
 The solids are processed into organic fertilizers.
