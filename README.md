@@ -17,7 +17,7 @@ They want to develop an alarming system that could handle sudden stop of centrif
 
 
 Dataset :
-The Dataset has one year (Jun 2018 to May 2019) of minutes data of 4 centrifuges collected from 21 sensors.
+The Dataset has one year (Jun 2019 to May 2020) of minutes data of 4 centrifuges collected from 21 sensors.
 
 
 Conclusion :- 
