@@ -1,6 +1,6 @@
-# Predictive-Time-Series-Analysis-from-sensor-data
+# Predictive-Time-Series-Analysis-from-sensor-data 
 
-Time series - centrifuges dataset (Publicly available dataset)
+Time series - centrifuges (public dataset)
 
 Introduction:
 Proof of Concept study.
